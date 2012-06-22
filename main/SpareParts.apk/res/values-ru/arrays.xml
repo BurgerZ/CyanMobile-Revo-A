@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_animations">
+        <item>Выключить</item>
+        <item>Быстрая</item>
+        <item>Нормальная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Чрезвычайно мелкий</item>
+        <item>Очень мелкий</item>
+        <item>Мелкий</item>
+        <item>Нормальный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+        <item>Чрезвычайно большой</item>
+    </string-array>
+    <string-array name="entries_end_button">
+        <item>Ничего</item>
+        <item>Домой</item>
+        <item>Сон</item>
+        <item>Домой, затем Сон</item>
+    </string-array>
+</resources>

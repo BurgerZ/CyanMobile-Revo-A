@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIMExporter</string>
+    <string name="phone_tab_title">Телефон</string>
+    <string name="sim_tab_title">SIM-карта</string>
+    <string name="context_header_phone">Изменить контакт телефона</string>
+    <string name="context_header_sim">Изменить контакт на SIM-карте</string>
+    <string name="context_entry_copy_to_phone">Копировать в телефон</string>
+    <string name="context_entry_edit_on_phone">Правка</string>
+    <string name="context_entry_delete_from_sim">Удалить с SIM-карты</string>
+    <string name="context_entry_copy_to_sim">Копировать на SIM-карту</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="close">Закрыть</string>
+    <string name="confirm_sim_contact_stored">Контакт сохранен на SIM-карте.</string>
+    <string name="confirm_sim_contact_removed">Контакт удален с SIM-карты.</string>
+    <string name="confirm_phone_contact_number_stored">Номер контакта сохранен на телефоне.</string>
+    <string name="error_sim_contact_conversion_failed">Контакт не может быть сконвертирован в формат SIM-карты! Возможно SIM-карта заполнена?</string>
+    <string name="error_sim_contact_already_present">Уже на SIM-карте!</string>
+    <string name="error_sim_contact_not_stored">Ошибка сохранения на SIM-карте!</string>
+    <string name="error_sim_error_during_contact_removal">Ошибка при удалении контакта с SIM-карты!</string>
+    <string name="error_sim_x_contacts_existing">Невозможно идентифицировать контакт на SIM-карте для удаления! Не удалено:</string>
+    <string name="error_phone_contact_already_present">Уже на телефоне!</string>
+    <string name="error_phone_contact_not_stored">Ошибка сохранения кантакта на телефон!</string>
+    <string name="error_phone_number_not_stored">Ошибка добавления номера к контакту на телефоне!</string>
+    <string name="error_phone_number_error">Неизвестная ошибка при добавлении номера к контакту на телефоне!</string>
+</resources>

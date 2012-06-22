@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Помощник установки анимации загрузки</string>
+    <string name="move_ui">Файл успешно установлен как анимация загрузки.</string>
+    <string name="remove_ui">Установить загрузочную анимацию по умолчанию.</string>
+</resources>

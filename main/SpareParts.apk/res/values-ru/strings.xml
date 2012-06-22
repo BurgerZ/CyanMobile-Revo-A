@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Spare Parts</string>
+    <string name="device_info_title">О телефоне</string>
+    <string name="title_battery_history">История батареи</string>
+    <string name="summary_battery_history">Резюме исользования батареи</string>
+    <string name="title_battery_information">Информация о батарее</string>
+    <string name="summary_battery_information">Текущая информация о статусе батареи</string>
+    <string name="title_usage_statistics">Статистика использования</string>
+    <string name="summary_usage_statistics">Резюме исользования приложениями</string>
+    <string name="general_title">Основные настройки</string>
+    <string name="title_window_animations">Анимация окон</string>
+    <string name="summary_window_animations">Скорость анимации окон</string>
+    <string name="dialog_title_window_animations">Выбрать скорость анимации окон</string>
+    <string name="title_transition_animations">Анимация перехода</string>
+    <string name="summary_transition_animations">Выбрать скорость анимации переключения между окнами</string>
+    <string name="dialog_title_transition_animations">Скорость анимации перехода</string>
+    <string name="title_fancy_ime_animations">Необычная анимация ввода</string>
+    <string name="summary_on_fancy_ime_animations">Используется необычная анимация ввода</string>
+    <string name="summary_off_fancy_ime_animations">Используется нормальная анимация ввода</string>
+    <string name="title_haptic_feedback">Отклик на нажатие</string>
+    <string name="summary_on_haptic_feedback">Отклик на нажатие включен</string>
+    <string name="summary_off_haptic_feedback">Отклик на нажатие выключен</string>
+    <string name="title_font_size">Размер шрифта</string>
+    <string name="summary_font_size">Выбрать размер шрифтов</string>
+    <string name="dialog_title_font_size">Выбрать размер шрифтов</string>
+    <string name="title_end_button">Поведение кнопки Конец</string>
+    <string name="summary_end_button">Выбрать действие по кнопке Конец (красная)</string>
+    <string name="dialog_title_end_button">Выбрать действие</string>
+    <string name="applications_title">Приложения</string>
+    <string name="compatibility_mode_title">Режим совместимости</string>
+    <string name="compatibility_mode_summary_on">Выполнять старые приложения в режиме совместимости.</string>
+    <string name="compatibility_mode_summary_off">Не выполнять старые приложения в режиме совместимости.</string>
+</resources>

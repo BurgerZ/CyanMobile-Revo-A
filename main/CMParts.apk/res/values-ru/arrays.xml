@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_battery">
+        <item>1 секунда</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>20 секунд</item>
+        <item>30 секунд</item>
+        <item>40 секунд</item>
+        <item>50 секунд</item>
+        <item>1 минута</item>
+    </string-array>
+    <string-array name="entries_heapsize">
+        <item>12 Мб</item>
+        <item>16 Мб</item>
+        <item>24 Мб</item>
+        <item>32 Мб</item>
+        <item>48 Мб</item>
+        <item>64 Мб</item>
+    </string-array>   
+	<string-array name="entries_vol_bootsound">
+        <item>1</item>
+        <item>2 (По умолчанию)</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>	
+    <string-array name="entries_install_location">
+        <item>Автоматически</item>
+        <item>Внутренняя</item>
+        <item>Внешняя</item>
+        <item>SD-Карта</item>
+    </string-array>
+    <string-array name="entries_status_bar_am_pm">
+        <item>Нормальный</item>
+        <item>Маленький</item>
+        <item>Нет (По умолчанию)</item>
+    </string-array>
+    <string-array name="entries_status_bar_battery_style">
+        <item>По умолчанию</item>
+        <item>В процентах</item>
+        <item>Насыщение цветом</item>
+    </string-array>
+    <string-array name="entries_status_bar_battery">
+        <item>Иконка (По умолч.)</item>
+        <item>В процентах</item>
+        <item>Над строкой состояния</item>
+        <item>По сторонам экрана</item>
+        <item>За строкой состояния</item>
+        <item>По центру экрана</item>
+        <item>Не показывать</item>
+    </string-array>
+    <string-array name="entries_status_bar_battery_color">
+        <item>Из темы</item>
+        <item>Черный</item>
+        <item>Синий</item>
+        <item>Серый</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+        <item>Белый</item>
+        <item>Желтый</item>
+        <item>Свой цвет</item>
+    </string-array>
+    <string-array name="statusbar_clockfontsize_entries">
+        <item>8dp</item>
+        <item>10dp</item>
+        <item>12dp</item>
+        <item>14dp (По умолчанию)</item>
+        <item>16dp</item>
+        <item>18dp</item>
+        <item>20dp</item>
+        <item>22dp</item>
+        <item>24dp</item>
+    </string-array>
+    <string-array name="statusbar_iconfontsize_entries">
+        <item>8dp</item>
+        <item>10dp</item>
+        <item>12dp</item>
+        <item>14dp (По умолчанию)</item>
+        <item>16dp</item>
+        <item>18dp</item>
+        <item>20dp</item>
+        <item>22dp</item>
+        <item>24dp</item>
+    </string-array>
+    <string-array name="statusbar_iconsize_entries">
+        <item>15dp</item>
+        <item>16dp</item>
+        <item>17dp</item>
+        <item>18dp</item>
+        <item>19dp</item>
+        <item>20dp (По умолчанию)</item>
+        <item>21dp</item>
+        <item>22dp</item>
+        <item>23dp</item>
+        <item>24dp</item>
+        <item>25dp</item>
+    </string-array>
+    <string-array name="statusbar_navisize_entries">
+        <item>15dp</item>
+        <item>16dp</item>
+        <item>17dp</item>
+        <item>18dp</item>
+        <item>19dp</item>
+        <item>20dp (По умолчанию)</item>
+        <item>21dp</item>
+        <item>22dp</item>
+        <item>23dp</item>
+        <item>24dp</item>
+        <item>25dp</item>
+    </string-array>
+    <string-array name="statusbar_carrierfontsize_entries">
+        <item>8dp</item>
+        <item>10dp</item>
+        <item>12dp</item>
+        <item>14dp (По умолчанию)</item>
+        <item>16dp</item>
+        <item>18dp</item>
+        <item>20dp</item>
+        <item>22dp</item>
+        <item>24dp</item>
+    </string-array>
+    <string-array name="haptic_feedback_entries">
+        <item>Настройки системы</item>
+        <item>Вкл</item>
+        <item>Выкл</item>
+    </string-array>
+    <string-array name="pref_trackball_blink_rate_entries">
+        <item>Настройки приложения</item>
+        <item>2 (Быстро)</item>
+        <item>3</item>
+        <item>4 (Средне)</item>
+        <item>5</item>
+        <item>6 (Медленно)</item>
+    </string-array>
+    <string-array name="pref_lockscreen_delay_entries">
+        <item>Немедленно</item>
+        <item>1 секунда</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="pref_compcache_size_entries">
+        <item>Отключено</item>
+        <item>10%</item>
+        <item>18% (По умолчанию)</item>
+        <item>26%</item>
+        <item>32%</item>
+    </string-array>
+    <string-array name="entries_light_filter_window">
+        <item>2 секунды</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>20 секунд</item>
+        <item>30 секунд</item>
+        <item>60 секунд</item>
+    </string-array>
+    <string-array name="entries_light_filter_reset">
+        <item>Отключено</item>
+        <item>400 lux</item>
+        <item>500 lux</item>
+        <item>600 lux</item>
+        <item>700 lux</item>
+        <item>800 lux</item>
+        <item>900 lux</item>
+        <item>1000 lux</item>
+        <item>1500 lux</item>
+        <item>2000 lux</item>
+        <item>2500 lux</item>
+    </string-array>
+    <string-array name="entries_light_filter_interval">
+        <item>0.5 секунды</item>
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+    </string-array>
+    <string-array name="entries_light_levels_dim">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20 (По умолчанию)</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+    </string-array>
+    <string-array name="entries_sound_attenuation">
+        <item>0 dB</item>
+        <item>4 dB</item>
+        <item>6 dB (По умолчанию)</item>
+        <item>8 dB</item>
+        <item>10 dB</item>
+    </string-array>
+	   <string-array name="entries_speaker_attenuation">
+        <item>0 dB (По умолчанию)</item>
+        <item>4 dB</item>
+        <item>6 dB</item>
+        <item>8 dB</item>
+        <item>10 dB</item>
+    </string-array>
+    <string-array name="entries_sound_limitvol">
+        <item>Пониженная громкость</item>
+        <item>Громкость музыки (По умолчанию)</item>
+    </string-array>
+	    <array name="entries_brightness_widget">
+        <item>@string/cm_brightness_mode_dim</item>
+        <item>25%</item>
+        <item>40%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </array>
+    <string-array name="values_brightness_widget">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="entries_network_widget">
+        <item>2G/3G+2G</item>
+        <item>Только 2G/3G</item>
+        <item>2G/3G Только/3G+2G</item>
+    </string-array>
+    <string-array name="entries_screentimeout_widget">
+        <item>15сек/1мин/5мин</item>
+        <item>30сек/2мин/5мин</item>
+    </string-array>
+    <string-array name="entries_flash_widget">
+        <item>Обычный</item>
+        <item>Полная яркость</item>
+    </string-array>
+    <string-array name="entries_mobiledatanetwork_widget">
+        <item>Выкл</item>
+        <item>Вкл</item>
+    </string-array>
+    <string-array name="pref_lockscreen_gestures_sensitivity_entries">
+        <item>1 (широкий)</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12 (строгий)</item>
+    </string-array>
+    <string-array name="pref_lockscreen_background_entries">
+        <item>Цвет</item>
+        <item>Изображение</item>
+        <item>По умолчанию</item>
+    </string-array>
+    <string-array name="pref_lockscreen_music_headset_entries">
+        <item>Отключено</item>
+        <item>Проводные наушники</item>
+        <item>Bluetooth A2DP наушники</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="pref_lockscreen_calendar_lookahead_entries">
+        <item>3 часа</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+        <item>1 день</item>
+        <item>3 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array name="pref_lockscreen_calendar_show_event_metadata_entries">
+        <item>Не показывать</item>
+        <item>Первая строка</item>
+        <item>Показать все</item>
+    </string-array>
+    <string-array name="pref_overscroll_effect_entries">
+        <item>Нет</item>
+        <item>Свечение</item>
+        <item>Отскок и свечение</item>
+        <item>Отскок</item>
+    </string-array>
+    <string-array name="entries_overscroll_weight">
+        <item>Очень сильная</item>
+        <item>Сильная</item>
+        <item>Средняя</item>
+        <item>Легкая</item>
+        <item>Очень легкая</item>
+    </string-array>
+    <string-array name="entries_overscroll_color">
+        <item>По умолчанию</item>
+        <item>Свой цвет</item>
+    </string-array>
+    <string-array name="swap_volume_keys_orientation_list_entries">
+        <item>Никогда</item>
+        <item>0 градусов</item>
+        <item>90 градусов</item>
+        <item>180 градусов</item>
+        <item>270 градусов</item>
+    </string-array>
+    <string-array name="entries_vol_actions">
+        <item>Ничего/По умолчанию</item>
+        <item>Домой</item>
+        <item>Меню</item>
+        <item>Назад</item>
+        <item>Поиск</item>
+        <item>Питание</item>
+        <item>Вызов</item>
+        <item>Отбой</item>
+        <item>Воспр./Пауза</item>
+        <item>След. трек</item>
+        <item>Пред. трек</item>
+        <item>Долгое нажатие домой</item>
+    </string-array>
+    <string-array name="entries_unhide_button">
+        <item>Домой</item>
+        <item>Меню</item>
+        <item>Назад</item>
+        <item>Поиск</item>
+        <item>Камера</item>
+        <item>Громче</item>
+        <item>Тише</item>
+    </string-array>
+    <string-array name="entries_long_press_menu">
+        <item>Ничего</item>
+        <item>Клавиатура</item>
+        <item>Поиск</item>
+        <item>Приложение</item>
+        <item>Строка состояния</item>
+    </string-array>
+    <string-array name="entries_transparent_status_bar">
+        <item>Как в теме</item>
+        <item>Отключить</item>
+        <item>Полупрозрачная</item>
+        <item>Градиент</item>
+        <item>Свой цвет</item>
+        <item>Прозрачная</item>
+        <item>Изображение</item>
+    </string-array>
+    <string-array name="entries_transparent_navi_bar">
+        <item>Как в теме</item>
+        <item>Отключить</item>
+        <item>Полупрозрачная</item>
+        <item>Градиент</item>
+        <item>Свой цвет</item>
+        <item>Прозрачная</item>
+    </string-array>
+    <string-array name="entries_transparent_notification_background">
+        <item>Как в теме</item>
+        <item>Из прошивки</item>
+        <item>Свой цвет</item>
+        <item>Прозрачный</item>
+        <item>Заглядывает Android</item>
+        <item>Изображение</item>
+    </string-array>
+    <string-array name="entries_sd_readahead">
+        <item>128 Кб</item>
+        <item>256 Кб</item>
+        <item>512 Кб</item>
+        <item>1024 Кб</item>
+        <item>2048 Кб</item>
+        <item>4096 Кб</item>
+        <item>8192 Кб</item>
+    </string-array>
+    <string-array name="entries_lowmemkill">
+        <item>По умолчанию</item>
+        <item>Для ежедн. использ.</item>
+        <item>Мультизадачность</item>
+        <item>Аппар. мультизадач.</item>
+        <item>Софт. мультизадач.</item>
+        <item>Жесткий игр. режим</item>
+    </string-array>
+    <string-array name="pref_powersaving_data_screen_off_entries">
+        <item>Ничего не делать</item>
+        <item>Выкл. перед. данных</item>
+        <item>Перекл. в режим 2G</item>
+    </string-array>
+    <string-array name="pref_powersaving_data_screen_off_delay_entries">
+        <item>Не ждать (немедленно)</item>
+        <item>10 секунд</item>
+        <item>30 секунд</item>
+        <item>45 секунд</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="pref_powersaving_sync_screen_off_interval_entries">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>5 часов</item>
+        <item>6 часов</item>
+        <item>8 часов</item>
+        <item>12 часов</item>
+    </string-array>
+    <string-array name="pref_powersaving_data_screen_off_entries_cdma">
+        <item>Ничего не делать</item>
+        <item>Выкл. перед. данных</item>
+    </string-array>
+    <string-array name="pref_powersaving_sync_screen_off_entries">
+        <item>Ничего не делать</item>
+        <item>Выкл. автосинхр.</item>
+        <item>Выкл. автосинхр. с задержкой</item>
+    </string-array>
+    <string-array name="powersaving_screen_off_wifi_entries">
+        <item>Ожидать нажатия</item>
+        <item>Выключить Wi-Fi</item>
+        <item>Включить Wi-Fi</item>
+    </string-array>
+    <string-array name="powersaving_sync_data_mode_entries">
+        <item>Ожидать нажатия</item>
+        <item>Только через Wi-Fi</item>
+        <item>Предпочтительно Wi-Fi</item>
+        <item>Только сеть операт.</item>
+    </string-array>
+    <string-array name="powersaving_sync_data_mobile_mode_entries">
+        <item>Только через 2G/1x</item>
+        <item>Предпочтительно 3G</item>
+    </string-array>
+    <string-array name="entries_animations">
+        <item>Выключено</item>
+        <item>Быстро</item>
+        <item>Нормально</item>
+        <item>Медленно</item>
+        <item>Очень медленно</item>
+    </string-array>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rambler">
+        <item>Rambler</item>
+        <item>rambler.ru</item>
+        <item>http://www.rambler.ru/favicon.ico</item>
+        <item>http://www.rambler.ru/srch?words={searchTerms}</item>
+        <item>windows-1251</item>
+        <item></item>
+    </string-array>
+    <string-array name="mail_ru">
+        <item>\@MAIL.RU</item>
+        <item>mail.ru</item>
+        <item>http://img.go.mail.ru/favicon.ico</item>
+        <item>http://go.mail.ru/search?q={searchTerms}</item>
+        <item>windows-1251</item>
+        <item></item>
+    </string-array>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/m?hl={language}&amp;amp;ie={inputEncoding}&amp;amp;source=android-browser&amp;amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://www.google.com/complete/search?hl={language}&amp;amp;json=true&amp;amp;q={searchTerms}</item>
+    </string-array>
+    <string-array name="bing_ru_RU">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>http://www.bing.com/s/wlflag.ico</item>
+        <item>http://www.bing.com/search?setmkt=ru-RU&amp;amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
+    </string-array>
+    <string-array name="yandex_ru">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Всегда</item>
+        <item>По требованию</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Мелкий</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Крупный</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Юникод (UTF-8)</item>
+        <item>Китайская (GBK)</item>
+        <item>Китайская (Big5)</item>
+        <item>Японская (ISO-2022-JP)</item>
+        <item>Японская (SHIFT_JIS)</item>
+        <item>Японская (EUC-JP)</item>
+    </string-array>
+</resources>

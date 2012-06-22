@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Popup</string>
+    <string name="popup_reply">SMS Ответ</string>
+    <string name="pref_popup_title">Всплывающее окно</string>
+    <string name="pref_popup_enabled">Нажмите для выключения всплывающего окна при получении нового сообщения</string>
+    <string name="pref_popup_disabled">Нажмите для включения всплывающего окна при получении нового сообщения</string>
+    <string name="pref_notification_disabled">Всплывающее окно было выключено.</string>
+    <string name="pref_notification_enabled">Всплывающее окно было включено.</string>
+    <string name="multisms_button_close">Закрыть</string>
+    <string name="multisms_button_delete">Удалить</string>
+    <string name="multisms_button_reply">Ответ</string>
+    <string name="quickreply_preset_button">Задаёт</string>
+    <string name="quickreply_send_button">Отправить</string>
+    <string name="mundur">&lt;--</string>
+    <string name="maju">--></string>
+    <string name="masuk">Входящие</string>
+    <string name="bukaan">Разблокировать</string>
+</resources>

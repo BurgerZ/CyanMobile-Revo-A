@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="compass_title">Вращение и калибровка компаса</string>
+    <string name="app_name">Калибровка компаса</string>
+    <string name="compass_calibrate">Выполнить калибровку</string>
+    <string name="compcalibration">Калибровка компаса</string>
+    <string name="compcalibrationdialog">Режим калибровки активирован. Пожайлуста, положите телефон на плоский стол или поверхность и нажмите ОК</string>
+</resources>

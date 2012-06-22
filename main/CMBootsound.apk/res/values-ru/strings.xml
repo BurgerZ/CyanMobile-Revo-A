@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мелодия загрузки телефона</string>
+    <string name="move_ui">Файл успешно установлен как мелодия загрузки телефона.</string>
+    <string name="remove_ui">Мелодия загрузки телефона установлена на мелодию по умолчанию.</string>
+</resources>

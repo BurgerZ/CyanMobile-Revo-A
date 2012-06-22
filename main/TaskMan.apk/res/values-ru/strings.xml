@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диспетчер задач</string>
+    <string name="edit_ignorelist_title">Диспетчер задач - Редактировать список игнорирования</string>
+    <string name="end_all_bt">Завершить Все</string>
+    <string name="menu_edit_ignore">Edit IgnoreList</string>
+    <string name="menu_exit">Выход</string>
+    <string name="menu_refresh">Обновить список</string>
+    <string name="end_app">Завершить</string>
+    <string name="add_to_ignore_list">Добавить приложение в список игнорирования</string>
+    <string name="app_info">Информация о приложении</string>
+    <string name="no_running_apps">Нет запущенных приложений</string>
+</resources>

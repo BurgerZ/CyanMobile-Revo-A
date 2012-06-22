@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_title">Мониторинг батареи и калибровка</string>
+    <string name="app_name">Калибровка батареи</string>
+    <string name="battery_calibrate">Выполнить калибровку</string>
+    <string name="battery_info_status_label">Статус батареи:</string>
+    <string name="battery_info_power_label">Зарялка батареи:</string>
+    <string name="battery_info_scale_label">Состояние батареи:</string>
+    <string name="battery_info_level_label">Уровень зарядки:</string>
+    <string name="battery_info_health_label">Здоровье батареи:</string>
+    <string name="battery_info_technology_label">Тип батареи:</string>
+    <string name="battery_info_voltage_label">Напряжение:</string>
+    <string name="battery_info_temperature_label">Температура батареи:</string>
+    <string name="battery_info_temperature_units">° C</string>
+    <string name="battery_info_uptime">С момента загрузки:</string>
+    <string name="battery_info_awake_battery">Работа от батареи:</string>
+    <string name="battery_info_awake_plugged">Работа при зарядке:</string>
+    <string name="battery_info_screen_on">Время ВКЛ экрана:</string>
+    <string name="battery_info_status_unknown">Неизвестно</string>
+    <string name="battery_info_status_charging">Зарядка</string>
+    <string name="battery_info_status_discharging">Разрядка</string>
+    <string name="battery_info_status_not_charging">Без зарядки</string>
+    <string name="battery_info_status_full">Полная</string>
+    <string name="battery_info_power_unplugged">Не подключена</string>
+    <string name="battery_info_power_unknown">Неизвестно</string>
+    <string name="battery_info_health_unknown">Неизвестно</string>
+    <string name="battery_info_health_good">Хорошее</string>
+    <string name="battery_info_health_overheat">Перегрев</string>
+    <string name="battery_info_health_dead">Плохое</string>
+    <string name="battery_info_health_over_voltage">По напряжению</string>
+    <string name="battery_info_health_unspecified_failure">Неизвестная ошибка</string>
+</resources>

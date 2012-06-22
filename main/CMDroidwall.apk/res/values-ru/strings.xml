@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DroidWall</string>
+    <string name="title_enabled">DroidWall v%s</string>
+    <string name="title_disabled">DroidWall v%s (Файервол отключен)</string>
+    <string name="showrules">Показать правила</string>
+    <string name="applyrules">Применить правила</string>
+    <string name="saverules">Сохранить правила</string>
+    <string name="purgerules">Очистить правила</string>
+    <string name="setpwd">Пароль</string>
+    <string name="help">Справка</string>
+    <string name="close">Закрыть</string>
+    <string name="exit">Выход</string>
+    <string name="fw_enabled">Файервол включен</string>
+    <string name="fw_disabled">Файервол выключен</string>
+    <string name="log_enabled">Лог включен</string>
+    <string name="log_disabled">Лог выключен</string>
+    <string name="log_was_enabled">Лог был включен</string>
+    <string name="log_was_disabled">Лог был выключен</string>
+    <string name="log_cleared">Лог очищен</string>
+    <string name="show_log">Показать лог</string>
+    <string name="clear_log">Очистить лог</string>
+    <string name="applying_rules">Применение правил iptables.</string>
+    <string name="saving_rules">Сохранение правил iptables.</string>
+    <string name="deleting_rules">Удаление правил iptables.</string>
+    <string name="rules_applied">Правила успешно применены</string>
+    <string name="rules_saved">Правила успешно сохранены</string>
+    <string name="rules_deleted">Правила успешно удалены</string>
+    <string name="pass_titleset">Установить пароль блокировки</string>
+    <string name="pass_titleget">Необходимо ввести пароль</string>
+    <string name="enterpass">Введите пароль:</string>
+    <string name="enternewpass">Введите новый пароль (оставьте пустым для удаления):</string>
+    <string name="passdefined">Пароль блокировки определен</string>
+    <string name="passremoved">Пароль блокировки удален</string>
+    <string name="passerror">Ошибка при смене пароля блокировки</string>
+    <string name="working">Обработка...</string>
+    <string name="reading_apps">Чтение установленных приложений</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
+    <string name="mode_header">Режим: %s</string>
+    <string name="mode_whitelist">Белый список (разрешать)</string>
+    <string name="mode_blacklist">Черн. список (запрещать)</string>
+    <string name="toast_bin_installed">DroidWall: Исполняемые файлы установлены!</string>
+    <string name="toast_enabled">DroidWall: Файервол включен!</string>
+    <string name="toast_error_enabling">DroidWall: Ошибка включения Файервола!</string>
+    <string name="toast_disabled">DroidWall: Файервол выключен!</string>
+    <string name="toast_error_disabling">DroidWall: Ошибка отлючения Файервола!</string>
+    <string name="set_custom_script">Сценарий</string>
+    <string name="custom_script_defined">Пользовательский сценарий определён</string>
+    <string name="custom_script_removed">Пользовательский сценарий удалён</string>
+    <string name="custom_script_error">Ошибка при сохранении пользовательского сценария</string>
+    <string name="custom_script_info"><b>Введите ниже Ваш сценарий.</b>" 
+"<i>(Оставьте это поле пустым для удаления)</i>" 
+Для получения информации о пользовательских сценариях, нажмите "<a href="http://code.google.com/p/droidwall/wiki/CustomScripts">здесь</a>". "</string>
+    <string name="custom_script2_info">" 
+"<b>Скрипт shutdown</b>" 
+Можно также определить скрипт, который будет выполнен даже когда Файервол "<b>выключен</b>:</string>
+    <string name="unsaved_changes">Изменения не сохранены</string>
+    <string name="unsaved_changes_message">"Вы не сохранили изменения.
+Вы хотите сохранить или отказаться от них?"</string>
+    <string name="apply">Применить</string>
+    <string name="discard">Отказаться</string>
+    <string name="help_dialog_text"><i>Автор: Rodrigo Zechin Rosauro </i>" 
+"<a href="http://droidwall.googlecode.com"><i>http://droidwall.googlecode.com</i></a>" 
+"<i>Перевод: Alex Zaguzin</i>" 
+ 
+"<i>DroidWall - Файервол Android.</i> Очень мощное приложение по работе с <b>iptables</b>" файервола Linux. Он позволяет вам ограничивать или разрешать доступ приложениям к сетям передачи данных. Это - прекрасное решение, если Вы не имеете безлимитного тарифного плана, или только хотите видеть, что Ваша батарея живёт дольше. 
+ 
+"<b>Использование DroidWall:</b>" 
+"<b>1.</b> Нажмите на <b>Режим</b> для переключения между <i>Белым списком</i> и <i>Черным списком</i>" 
+"<b>2.</b>" Отметьте приложения, которым вы хотите запретить или разрешить доступ в сеть (в зависимости от выбранного режима) для каждого интерфейса подключения. 
+"<b>3.</b> Откройте меню и включите файервол. Если же файервол включен, то только выберите <b>Применить правила</b>". 
+Правила будут сохранены и автоматически восстановлены, когда Вы перезапустите свой телефон. 
+Если вы хотите проверить все правила iptables, выберите "<b>Показать правила</b>" в меню. 
+ 
+"<b>Виджет:</b>" 
+Для быстрого включения или отключения файервола добавьте виджет DroidWall на рабочий стол. 
+ 
+"<b>Лог файервола:</b>" 
+Если вы хотите увидеть, какие приложения были заблокированы файерволом то откройте меню и включите лог
+Файервол в таком случае будет регистрировать все заблокированные соединения. Нажмите "<b>Еще -> Показать лог</b>". 
+ 
+"<b>Пароль блокировки:</b>" 
+Можно создать пароль блокировки при использовании файервола. "<b>Установить пароль</b>" в "<b>Еще -> Пароль</b>" 
+Чтобы удалить защиту с помощью пароля - оставьте его пустым. "</string>
+    <string name="empty" />
+    <string name="mode">Режим:</string>
+</resources>

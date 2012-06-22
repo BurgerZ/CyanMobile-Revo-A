@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Проверка обновлений Blade</string>
+    <string name="app_name">BladeUpdater</string>
+    <string name="update_button_text">Проверить</string>
+    <string name="msg_board_default_text">Проверка обновлений</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Переключение шрифтов</string>
+    <string name="reboot_title">Требуется перезагрузка</string>
+    <string name="reboot_message">Телефон должен быть перезагружен для установки новых шрифтов.</string>
+    <string name="reboot_ok">Перезагрузить сейчас</string>
+    <string name="reboot_cancel">Отмена</string>
+    <string name="dismiss">Отклонить</string>
+    <string name="need_root_message">Ошибка копирования файлов. Вы суперпользователь?</string>
+    <string name="reboot_failed_title">Ошибка перезагрузки</string>
+    <string name="reboot_failed_message">Невозможно перезагрузить систему. Ваша система должна быть перезагружена для приминения новых шрифтов. Пожайлуста, сделайте это как можно скорее.</string>
+    <string name="mkdir_failed_title">Ошибка</string>
+    <string name="mkdir_failed_message">Невозможно создать папку для шрифтов на SD карте</string>
+    <string name="remount_failed_title">Ошибка перемонтирования</string>
+    <string name="remount_failed_message">Невозможно перемонтировать /system</string>
+    <string name="menu_apply">Применить шрифты</string>
+    <string name="menu_backup">Бэкап шрифтов</string>
+    <string name="menu_restore">Восстановить шрифты</string>
+    <string name="menu_reset">Сбросить пути</string>
+    <string name="select_font">Выберите шрифт</string>
+    <string name="diag_backing_up">Резервное копирование</string>
+    <string name="toast_backed_up">Шрифты сохранены в /sdcard/Fonts</string>
+    <string name="diag_applying">Применить шрифты</string>
+    <string name="toast_applied">Ваши шрифты применены</string>
+    <string name="diag_restoring">Восстановить шрифты</string>
+    <string name="toast_restored">Шрифты восстановлены с SD карты</string>
+    <string name="diag_copying">Копирование шрифтов</string>
+    <string name="diag_rebooting">Перезагрузка</string>
+    <string name="please_wait">Пожайлуста, подождите...</string>
+    <string name="context_copy">Копировать путь</string>
+    <string name="context_paste">Вставить путь</string>
+    <string name="context_clear">Очистить путь</string>
+</resources>

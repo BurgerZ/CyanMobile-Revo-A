@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="entries_statusbar_preference">
+        <item>Показывать</item>
+        <item>Скрывать</item>
+    </string-array>
+    <string-array name="entries_cursorblink_preference">
+        <item>Немигающий курсор</item>
+        <item>Мигающий курсор</item>
+    </string-array>
+    <string-array name="entries_cursorstyle_preference">
+        <item>Прямоугольный</item>
+        <item>Подчёркивание</item>
+        <item>Вертикальная черта</item>
+    </string-array>
+    <string-array name="entries_fontsize_preference">
+        <item>4 x 8 пикселей</item>
+        <item>6 pt</item>
+        <item>7 pt</item>
+        <item>8 pt</item>
+        <item>9 pt</item>
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+    </string-array>
+    <string-array name="entries_color_preference">
+        <item>Чёрный на белом</item>
+        <item>Белый на чёрном</item>
+        <item>Белый на синем</item>
+        <item>Зелёный на чёрном</item>
+        <item>Жёлтый на чёрном</item>
+        <item>Красный на чёрном</item>
+    </string-array>
+    <string-array name="entries_controlkey_preference">
+        <item>Трекбол</item>
+        <item>Клавиша @</item>
+        <item>Левый Alt</item>
+        <item>Правый Alt</item>
+        <item>Громкость вверх</item>
+        <item>Громкость вниз</item>
+        <item>Кнопка камеры</item>
+        <item>Не назначать</item>
+    </string-array>
+    <string-array name="entries_fnkey_preference">
+        <item>Трекбол</item>
+        <item>Клавиша @</item>
+        <item>Левый Alt</item>
+        <item>Правый Alt</item>
+        <item>Громкость вверх</item>
+        <item>Громкость вниз</item>
+        <item>Кнопка камеры</item>
+        <item>Не назначать</item>
+    </string-array>
+    <string-array name="entries_ime_preference">
+        <item>По знакам</item>
+        <item>По словам</item>
+    </string-array>
+    <string-array name="control_keys_short_names">
+        <item>Трекбол</item>
+        <item>Клавиша @</item>
+        <item>Левый Alt</item>
+        <item>Правый Alt</item>
+        <item>Громкость вверх</item>
+        <item>Громкость вниз</item>
+        <item>Кнопка камеры</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="fn_keys_short_names">
+        <item>Трекбол</item>
+        <item>Клавиша @</item>
+        <item>Левый Alt</item>
+        <item>Правый Alt</item>
+        <item>Громкость вверх</item>
+        <item>Громкость вниз</item>
+        <item>Кнопка камеры</item>
+        <item>Нет</item>
+    </string-array>
+</resources>

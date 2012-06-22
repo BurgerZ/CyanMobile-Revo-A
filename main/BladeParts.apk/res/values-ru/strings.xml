@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройки ZTE Blade</string>
+    <string name="prox_calibration_title_head">Калибровка датчика близости</string>
+    <string name="prox_calibration_summary_head">Ничего не помещайте сверху экрана при использовании</string>
+    <string name="prox_display_title_head">Показать данные о калибровке</string>
+    <string name="prox_display_summary_head">Показать текущие данные о калибровке датчика близости</string>
+    <string name="toast_error">Ошибка:</string>
+    <string name="back_button">Назад</string>
+    <string name="prox_restore_title_head">Восстановить по умолчанию</string>
+    <string name="prox_restore_summary_head">Удаление данных о калибровке (Требуется перезагрузка)</string>
+    <string name="delete_success">Настройки по умолчанию успешно установлены. Пожайлуста, перезагрузите ваш телефон.</string>
+    <string name="delete_error">Ошибка восстановления настроек по умолчанию.</string>
+    <string name="delete_no_file">Уже используется по умолчанию.</string>
+    <string name="usb_charging_title_head">Зарядка от USB</string>
+    <string name="usb_charging_summary_head">Включение и отключение зарядки</string>
+</resources>

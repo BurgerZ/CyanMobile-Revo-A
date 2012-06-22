@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Радостный</item>
+        <item>Грустный</item>
+        <item>Подмигивающий</item>
+        <item>Показывая язык</item>
+        <item>Удивленный</item>
+        <item>Целующий</item>
+        <item>Кричащий</item>
+        <item>Крутой</item>
+        <item>Рот-денежка</item>
+        <item>Несущий чушь (\"нога во рту\")</item>
+        <item>Смущение</item>
+        <item>Ангел</item>
+        <item>Неуверенный</item>
+        <item>Плачущий</item>
+        <item>Рот на замке</item>
+        <item>Смеющийся</item>
+        <item>Озадаченный</item>
+    </string-array>
+    <array name="pref_mms_user_agent_entries">
+        <item>Android (по умолчанию)</item>
+        <item>Nokia N95</item>
+        <item>iPhone (3.0)</item>
+        <item>BlackBerry 8800</item>
+        <item>Sony Ericsson W800i</item>
+        <item>SoftBank X01T</item>
+        <item>@string/pref_mms_custom_option</item>
+    </array>
+    <string-array name="pref_mms_message_font_size_entries">
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18 (по умолчанию)</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="pref_mms_convo_from_font_size_entries">
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16 (по умолчанию)</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="pref_mms_convo_subject_font_size_entries">
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16 (по умолчанию)</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+    <array name="pref_mms_notification_vibrate_pattern_entries">
+        <item>Нормальный</item>
+        <item>Средняя вибрация</item>
+        <item>Длинная вибрация</item>
+        <item>Несколько коротких</item>
+        <item>Несколько длинных</item>
+        <item>@string/pref_mms_custom_option</item>
+    </array>
+    <string-array name="pref_templates_gestures_sensitivity_entries">
+        <item>1 (широкий)</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12 (строгий)</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другой…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме без звука</item>
+        <item>Никогда</item>
+    </string-array>
+</resources>

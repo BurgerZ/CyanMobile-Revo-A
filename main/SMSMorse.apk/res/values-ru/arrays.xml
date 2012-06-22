@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preference_vibrate_parts_entries">
+        <item>Только сообщение</item>
+        <item>Сообщение+Отправитель</item>
+        <item>Отправитель+Сообщение</item>
+        <item>Только отправитель</item>
+    </string-array>
+</resources>

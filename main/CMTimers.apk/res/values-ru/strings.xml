@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Таймер выключения</string>
+    <string name="menu_timer">Таймер</string>
+    <string name="title_timer">Таймер</string>
+    <string name="minutes">Минут</string>
+    <string name="seconds">Секунд</string>
+    <string name="resume">Продолжить</string>
+    <string name="stop">Стоп</string>
+    <string name="reset">Сброс</string>
+    <string name="start">Старт</string>
+    <string name="settings">Настройки</string>
+    <string name="title_countdown_timer">Таймер выключения</string>
+    <string name="OK">ОК</string>
+    <string name="pref_show_hour_column">Показывать колонку Час</string>
+    <string name="reset_due_to_shake">Сброс должен дрожать.</string>
+    <string name="pref_changed_shaketoreset">Сброс должен дрожать</string>
+</resources>
