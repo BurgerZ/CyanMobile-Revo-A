@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Калибровка</string>
-    <string name="intro">"Калибровка сенсорного экрана:
-Нажмите на круг для начала калибровки"</string>
-    <string name="done">Калибровка завершена.</string>
-</resources>
